@@ -6,3 +6,5 @@ Conceitos aplicados: semântica HTML, unidades de medidas relativas, componentes
 Mobile: < 768 px <br>
 Tablet: >= 768px e < 1024 px <br>
 Desktop: >= 1024px
+<br>
+https://landing-page-reponsiva.vercel.app/
