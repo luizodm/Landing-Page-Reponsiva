@@ -42,7 +42,7 @@ h3 {
 #presentationContainer {
     padding: 2.5rem 7.5rem;
     height: 100vh;
-    background-image: url(/assets/background.png);
+    background-image: url(/assets/images/backgroundPresentation.png);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
